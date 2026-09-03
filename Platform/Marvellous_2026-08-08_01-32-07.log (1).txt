@@ -1,0 +1,1810 @@
+--------------------------------------------------
+---- Marvellous Platform Survillence System ----
+Log file gets created at : 2026-08-08_01-32-07
+--------------------------------------------------
+
+---------------- System Report -----------------
+Number of active CPU cores : 12
+CPU Usage : 1.8 %
+--------------------------------------------------
+RAM Usage : 81.3 %
+Total RAM available : 8301043712
+--------------------------------------------------
+Network Usage Report
+Sent : 40.18 MB
+Receive : 58.56 MB
+PID : 0
+Name : System Idle Process
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 1179.70
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 1.70
+RAM usage : 0.02
+--------------------------------------------------
+PID : 188
+Name : 
+User Name : None
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 232
+Name : Registry
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 468
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 1.04
+--------------------------------------------------
+PID : 708
+Name : SearchProtocolHost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 776
+Name : smss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 876
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.40
+RAM usage : 0.67
+--------------------------------------------------
+PID : 928
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 1028
+Name : csrss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 1116
+Name : wininit.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 1188
+Name : SecurityHealthSystray.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1260
+Name : services.exe
+User Name : None
+Status : running
+CPU usage : 0.30
+RAM usage : 0.09
+--------------------------------------------------
+PID : 1280
+Name : LsaIso.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 1288
+Name : lsass.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 1356
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 1428
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.44
+--------------------------------------------------
+PID : 1456
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.08
+--------------------------------------------------
+PID : 1512
+Name : fontdrvhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 1556
+Name : NgcIso.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1604
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 1624
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 1648
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 1676
+Name : VoiceAssistantService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 1704
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 1724
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.40
+--------------------------------------------------
+PID : 1772
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 1800
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 1844
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1880
+Name : MpDefenderCoreService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 1916
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 1956
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 1964
+Name : powershell.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.65
+--------------------------------------------------
+PID : 2060
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2096
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 2116
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 2124
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2260
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.10
+RAM usage : 2.05
+--------------------------------------------------
+PID : 2276
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 2360
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 2376
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2384
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 2392
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.10
+RAM usage : 0.95
+--------------------------------------------------
+PID : 2428
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2436
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2444
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2464
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2512
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2608
+Name : DAX3API.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2688
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2692
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.07
+--------------------------------------------------
+PID : 2712
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2808
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2816
+Name : mc-wps-secdashboardservice.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2880
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 3008
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 3136
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 3200
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 3228
+Name : python.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 4.70
+RAM usage : 0.41
+--------------------------------------------------
+PID : 3324
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 3396
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 3404
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 3508
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 3516
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 3572
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 3576
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 3588
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 3708
+Name : MemCompression
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 5.97
+--------------------------------------------------
+PID : 3768
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 3796
+Name : FnHotkeyUtility.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 3808
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 3816
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 3824
+Name : Lenovo.Modern.ImController.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 1.95
+--------------------------------------------------
+PID : 3876
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 3932
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 3972
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 4040
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4084
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 4104
+Name : spoolsv.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4160
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 4196
+Name : Widgets.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.44
+--------------------------------------------------
+PID : 4260
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 4328
+Name : IntelCpHDCPSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4336
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4348
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 4372
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.20
+RAM usage : 0.30
+--------------------------------------------------
+PID : 4400
+Name : IntelAudioService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4416
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 4424
+Name : ElevocControlService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 4432
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 4448
+Name : LNBITSSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.13
+--------------------------------------------------
+PID : 4480
+Name : LenovoUtilityService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4488
+Name : DAX3API.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 4496
+Name : RtkAudUService64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 4504
+Name : jhi_service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4528
+Name : ShellExperienceHost.exe
+User Name : MAHADEV\kmaha
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 4532
+Name : WMIRegistrationService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4580
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 4612
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 4624
+Name : ipfsvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4748
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 4796
+Name : AggregatorHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 4992
+Name : uihost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 5132
+Name : ipf_uf.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 5288
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 5384
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 5392
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 5488
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 5548
+Name : ctfmon.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 5576
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.42
+--------------------------------------------------
+PID : 5772
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 5996
+Name : WidgetService.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 6092
+Name : mccspuninstall.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 6300
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 6504
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 6568
+Name : WmiPrvSE.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 6604
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 6608
+Name : servicehost.exe
+User Name : None
+Status : running
+CPU usage : 4.10
+RAM usage : 0.28
+--------------------------------------------------
+PID : 6652
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 6716
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 6820
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 6848
+Name : MicrosoftEdgeUpdate.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 6948
+Name : CrossDeviceResume.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 7020
+Name : unsecapp.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 7092
+Name : MsMpEng.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.20
+--------------------------------------------------
+PID : 7112
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 7320
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 7332
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 7364
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.10
+RAM usage : 0.48
+--------------------------------------------------
+PID : 7408
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 7460
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 7672
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 7804
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 7860
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 8152
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 8164
+Name : ApplicationFrameHost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 8168
+Name : OpenConsole.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 8256
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 8296
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 8304
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 8424
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 8432
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.91
+--------------------------------------------------
+PID : 8456
+Name : dwm.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.95
+--------------------------------------------------
+PID : 8512
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.48
+--------------------------------------------------
+PID : 8732
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 8980
+Name : BraveCrashHandler64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 9188
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 9208
+Name : smartscreen.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 9332
+Name : cmd.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 9368
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 9388
+Name : csrss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 9432
+Name : taskhostw.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 9508
+Name : StartMenuExperienceHost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 1.24
+--------------------------------------------------
+PID : 9632
+Name : SystemSettings.exe
+User Name : MAHADEV\kmaha
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 9704
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.40
+--------------------------------------------------
+PID : 9728
+Name : ShellHost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.83
+--------------------------------------------------
+PID : 9844
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 9916
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 9948
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 9952
+Name : AppProvisioningPlugin.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 10056
+Name : conhost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 10076
+Name : LockApp.exe
+User Name : MAHADEV\kmaha
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 10088
+Name : OpenConsole.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 10120
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 10160
+Name : conhost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 10192
+Name : ipf_helper.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.10
+RAM usage : 0.02
+--------------------------------------------------
+PID : 10216
+Name : WWAHost.exe
+User Name : MAHADEV\kmaha
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 10272
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 10396
+Name : mc-fw-host.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 10472
+Name : explorer.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 1.70
+RAM usage : 3.06
+--------------------------------------------------
+PID : 10656
+Name : PushNotificationsLongRunningTask.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 10828
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 10868
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 11236
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 11244
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 11272
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 11828
+Name : python.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 11896
+Name : LenovoVantage-(GenericMessagingAddin).exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 12372
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.44
+--------------------------------------------------
+PID : 12460
+Name : PresentMonService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 12784
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 12896
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 13124
+Name : conhost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 13160
+Name : mc-neo-host.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 13288
+Name : SearchHost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.96
+--------------------------------------------------
+PID : 13496
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 13564
+Name : pet.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 13636
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.51
+--------------------------------------------------
+PID : 13776
+Name : BraveCrashHandler.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 13936
+Name : IntelGraphicsSoftware.Service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 14176
+Name : SDXHelper.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.20
+RAM usage : 0.40
+--------------------------------------------------
+PID : 14460
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 14996
+Name : SecurityHealthService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 15396
+Name : dllhost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 15440
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.79
+--------------------------------------------------
+PID : 15552
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 15684
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 15872
+Name : mc-fw-host.exe
+User Name : None
+Status : running
+CPU usage : 0.30
+RAM usage : 3.10
+--------------------------------------------------
+PID : 15944
+Name : FileCoAuth.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 16148
+Name : SnippingTool.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 16536
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 16592
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.41
+--------------------------------------------------
+PID : 16968
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 3.58
+--------------------------------------------------
+PID : 17008
+Name : svchost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 17048
+Name : Locator.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 17140
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.80
+RAM usage : 1.79
+--------------------------------------------------
+PID : 17264
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 17272
+Name : taskhostw.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 17372
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 17376
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 17384
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 17484
+Name : fontdrvhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 17756
+Name : SearchProtocolHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 17808
+Name : UDClientService.exe
+User Name : None
+Status : running
+CPU usage : 0.20
+RAM usage : 0.11
+--------------------------------------------------
+PID : 17988
+Name : unsecapp.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 18404
+Name : AutoModeDetect.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 18652
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 1.50
+--------------------------------------------------
+PID : 18720
+Name : backgroundTaskHost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 19028
+Name : SnippingTool.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 19120
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 3.63
+--------------------------------------------------
+PID : 19244
+Name : SearchIndexer.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.23
+--------------------------------------------------
+PID : 19288
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 19296
+Name : LenovoVantageService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.40
+--------------------------------------------------
+PID : 19404
+Name : sihost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 19540
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 19764
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 19820
+Name : FnHotkeyCapsLKNumLK.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 19956
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 20292
+Name : winlogon.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 20924
+Name : WindowsTerminal.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 1.48
+--------------------------------------------------
+PID : 21040
+Name : MessagingPlugin.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 21188
+Name : RtkAudUService64.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 21252
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 21408
+Name : AppVShNotify.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 21676
+Name : WmiApSrv.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 21856
+Name : conhost.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 21868
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.62
+--------------------------------------------------
+PID : 21876
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 21936
+Name : UserOOBEBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 22364
+Name : OneDrive.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.50
+RAM usage : 1.00
+--------------------------------------------------
+PID : 22556
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 22660
+Name : AppActions.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 22684
+Name : CrossDeviceService.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 22872
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 1.30
+RAM usage : 4.10
+--------------------------------------------------
+PID : 22884
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 23044
+Name : Code.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 3.57
+--------------------------------------------------
+PID : 23128
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 23284
+Name : OfficeClickToRun.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 23492
+Name : unsecapp.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 23804
+Name : elevation_service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 23832
+Name : LenovoVantage-(VantageCoreAddin).exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 23956
+Name : msedge.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 1.47
+--------------------------------------------------
+PID : 23996
+Name : wlanext.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 24288
+Name : RuntimeBroker.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 24340
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 24356
+Name : msedgewebview2.exe
+User Name : MAHADEV\kmaha
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+--------------------------------------------------
+--------------- End of Log File ----------------
+--------------------------------------------------
